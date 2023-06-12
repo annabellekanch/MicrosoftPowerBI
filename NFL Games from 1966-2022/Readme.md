@@ -6,4 +6,4 @@ The dashboard below shows 3 bar graphs. The bar graphs display the total wins by
 
 
 
-![NFL 1966-2022 Dashboard](NFL Games from 1966-2022/NFL 1966-2022 Dashboard.png? raw=true)
+![NFL 1966-2022 Dashboard](https://github.com/annabellekanch/MicrosoftPowerBI/assets/77216805/765a43c0-0362-43b9-aec8-2e63d3d8629b)
